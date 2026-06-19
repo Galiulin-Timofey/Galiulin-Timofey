@@ -23,9 +23,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=radical&hide_border=true" alt="Timofey's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Galiulin-Timofey&show_icons=true&theme=radical&hide_border=true" alt="Timofey's Stats" />
 </p>
-
 <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="50%"/>
