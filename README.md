@@ -26,9 +26,6 @@
 
 ---
 
-### 💬 Let's Connect
-* **Telegram:** [Твоя ссылка или ник]
-* **Discord:** [Твой ник]
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400"/>
